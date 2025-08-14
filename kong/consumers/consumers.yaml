@@ -1,0 +1,4 @@
+consumers:
+- username: jsmith
+  service: booking-sevice
+- username: jdoe
